@@ -129,7 +129,7 @@ const Login = (props) => {
           </Form>
         </div>
         <div className="bottom-box">
-          <span>New to Task7.1P?</span>
+          <span>New to Task9.1P?</span>
           <Button type="link" onClick={goRegister}>
             Sign Up
           </Button>
